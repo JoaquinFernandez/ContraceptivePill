@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Pille </string>
+      <string name="app_version">Version</string>
+    <string name="email">pill@jfma.es \n</string>
+    <string name="company_name">JFMA ™</string>
+    <string name="help_traducing"> Help us translate the application to your language. Write us!</string>
+  <string-array name="pill_types">
+    <item>21 Pillen</item>
+    <item>22 Pillen</item>
+    <item>24 Pillen</item>
+    <item>28 Pillen (21 + 7)</item>
+    <item>28 Pillen (24 + 4)</item>
+  </string-array>
+  <string-array name="weekdays_short">
+    <item>Mon</item>
+    <item>Die</item>
+    <item>Mit</item>
+    <item>Don</item>
+    <item>Fre</item>
+    <item>Sam</item>
+    <item>Son</item>
+  </string-array>
+  <string-array name="months">
+    <item>Januar</item>
+    <item>Februar</item>
+    <item>M\ärz</item>
+    <item>April</item>
+    <item>Mai</item>
+    <item>Juni</item>
+    <item>Juli</item>
+    <item>August</item>
+    <item>September</item>
+    <item>Oktober</item>
+    <item>November</item>
+    <item>Dezember</item>
+  </string-array>
+</resources>

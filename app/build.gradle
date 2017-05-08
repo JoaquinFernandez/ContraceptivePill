@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 14
+    buildToolsVersion "25.0.3"
+
+    defaultConfig {
+        applicationId "com.jsolutionssp.pill"
+        minSdkVersion 14
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':libNumberPicker')
+    compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.google.firebase:firebase-core:10.2.4'
+    compile 'com.google.android.gms:play-services-ads:10.2.4'
+}
+
+apply plugin: 'com.google.gms.google-services'

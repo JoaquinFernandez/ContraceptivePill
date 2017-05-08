@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1075462535825",
+    "firebase_url": "https://contraceptivepill-d638f.firebaseio.com",
+    "project_id": "contraceptivepill-d638f",
+    "storage_bucket": "contraceptivepill-d638f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075462535825:android:5efddc51fb87585b",
+        "android_client_info": {
+          "package_name": "com.jsolutionssp.pill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075462535825-dbkatnv27is48qfp6qjbphdn0cugdpj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDViYutWUAAlCuQZYyJ-eiybLc2qpxye78"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

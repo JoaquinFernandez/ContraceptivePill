@@ -1,0 +1,8 @@
+/.gradle
+/app/build
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+*.apk

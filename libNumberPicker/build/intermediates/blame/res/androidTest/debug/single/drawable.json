@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/res/merged/androidTest/debug/drawable/numberpicker_down_btn_holo_light.xml",
+        "source": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/bundles/debug/res/drawable/numberpicker_down_btn_holo_light.xml"
+    },
+    {
+        "merged": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/res/merged/androidTest/debug/drawable/numberpicker_down_btn.xml",
+        "source": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/bundles/debug/res/drawable/numberpicker_down_btn.xml"
+    },
+    {
+        "merged": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/res/merged/androidTest/debug/drawable/numberpicker_up_btn_holo_dark.xml",
+        "source": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/bundles/debug/res/drawable/numberpicker_up_btn_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/res/merged/androidTest/debug/drawable/numberpicker_up_btn.xml",
+        "source": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/bundles/debug/res/drawable/numberpicker_up_btn.xml"
+    },
+    {
+        "merged": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/res/merged/androidTest/debug/drawable/numberpicker_up_btn_holo_light.xml",
+        "source": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/bundles/debug/res/drawable/numberpicker_up_btn_holo_light.xml"
+    },
+    {
+        "merged": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/res/merged/androidTest/debug/drawable/numberpicker_input.xml",
+        "source": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/bundles/debug/res/drawable/numberpicker_input.xml"
+    },
+    {
+        "merged": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/res/merged/androidTest/debug/drawable/numberpicker_down_btn_holo_dark.xml",
+        "source": "/Users/joaquin/Documents/workspace/ContraceptivePill/libNumberPicker/build/intermediates/bundles/debug/res/drawable/numberpicker_down_btn_holo_dark.xml"
+    }
+]
